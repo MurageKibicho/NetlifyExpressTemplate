@@ -7,6 +7,6 @@
 
 Works locally with
 ```
-nodemon server-local.js
+node node_modules/pug-cli/index.js views/ --out ./ && nodemon server-local.js
 ```
  
